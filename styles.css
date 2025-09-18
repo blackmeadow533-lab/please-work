@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+body{
+    background-color:lightgray;
+    font-family: "Playpen Sans", cursive;
+    font-weight: 200;
+}
+
+#back-to-top{
+    display: block;
+    text-align: right;
+}
+header, footer{
+    text-align: center;
+}
+
+#flyer img{
+    display: block;
+    margin: 0 auto;
+    max-width: 75%;
+    padding-bottom: 20px;
+}
+
+#about{
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: lightsteelblue;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+
+#Nextsteps{
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: rgb(143, 154, 169);
+    padding-bottom: 20px;
+    margin: 5px;
+}
+#contact {
+    text-align: center;
+}
+
+nav a {
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    background-color:#b9accf;
+    border-radius:5px;
+    color: black;
+    font-weight:800;   
+    margin-bottom: 20px;
+}
+div{
+    text-align: center;
+}
+
+
+ul li{
+    text-align: center;
+    display:inline-block;
+    width: 20%;
+    padding: 10px 0;
+    
+}
+#donate{
+    display: inline-block;
+    padding:20px;
+    background-color:rgb(83, 107, 90);
+    border-radius:5px;
+    color: black;
+    font-weight:800;
+}
